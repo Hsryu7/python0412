@@ -10,5 +10,5 @@ class GString:
         print(self.str)
 
 g = GString()
-g.set("First Message")
+g.set("First Message") 
 g.print()
